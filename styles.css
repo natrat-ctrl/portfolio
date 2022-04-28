@@ -1,0 +1,16 @@
+h1 {
+border: 2px solid #ff0000;
+padding: 5px;}
+
+a {border: 2px solid #ff0000;
+border-radius: 12px;
+padding: 5px;
+background-color: #008B8B;
+}
+
+h2 {border-bottom: 2px dotted #ff0000}
+.myDiv {
+background-image: url ("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
+   height: 400px;
+   width: 100%;
+}
